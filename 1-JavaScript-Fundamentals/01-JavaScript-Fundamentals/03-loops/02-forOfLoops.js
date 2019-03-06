@@ -9,6 +9,8 @@ let student = {
 for (item of student) {
     console.log(item);
 }
+
+//Hey hey 
 // doesnt work!
 
 let catArray = [ 'tabby', 'british shorthair', 'burmese', 'mainecoon', 'ragdoll'];
