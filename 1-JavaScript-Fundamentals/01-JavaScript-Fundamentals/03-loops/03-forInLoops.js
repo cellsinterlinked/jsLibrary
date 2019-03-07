@@ -20,7 +20,7 @@ let student = {
     week: 1
 }
 
-for (let item in studdent) {
+for (let item in student) {
     //console.log(item)
     console.log(student[item]) //square bracket notation
 }
